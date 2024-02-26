@@ -1,0 +1,1 @@
+{"uuid":"68fb8054-a817-48d7-8e01-cf90084edad0","children":["6da6f619-05a8-44ef-8f29-46f67706daa9"],"befores":[{"status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[],"name":"\"before all\" hook","start":1708903569844,"stop":1708903570276}],"afters":[],"name":"Set de pruebas para el componente LeadForm"}
